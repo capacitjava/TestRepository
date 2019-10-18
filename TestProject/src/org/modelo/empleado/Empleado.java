@@ -5,6 +5,10 @@ public class Empleado {
 	private int id;
 	private String nombre;
 	
+	//MAIN
+	public static void main(String[] args) {
+		
+	}
 	//GETTERS AND SETTERS
 	public int getId() {
 		return id;
